@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Roihan/Downloads/MSML/Membangun_model/mlruns/0/ffc3d0edd59347f2a080fa74af4e8a1c/artifacts
+end_time: 1766525447952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffc3d0edd59347f2a080fa74af4e8a1c
+run_name: rf_tuning
+run_uuid: ffc3d0edd59347f2a080fa74af4e8a1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766525441513
+status: 3
+tags: []
+user_id: naaylaalifah

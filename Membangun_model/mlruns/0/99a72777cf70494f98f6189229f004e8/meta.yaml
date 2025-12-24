@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Roihan/Downloads/MSML/Membangun_model/mlruns/0/99a72777cf70494f98f6189229f004e8/artifacts
+end_time: 1766525149765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99a72777cf70494f98f6189229f004e8
+run_name: rf_basic
+run_uuid: 99a72777cf70494f98f6189229f004e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766525145331
+status: 3
+tags: []
+user_id: naaylaalifah
