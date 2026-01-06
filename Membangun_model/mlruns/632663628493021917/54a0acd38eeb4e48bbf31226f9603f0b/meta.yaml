@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/632663628493021917/54a0acd38eeb4e48bbf31226f9603f0b/artifacts
+end_time: 1766587299396
+entry_point_name: ''
+experiment_id: '632663628493021917'
+lifecycle_stage: active
+run_id: 54a0acd38eeb4e48bbf31226f9603f0b
+run_name: vaunted-jay-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766587296074
+status: 3
+tags: []
+user_id: naaylaalifah

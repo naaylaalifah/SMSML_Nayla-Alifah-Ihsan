@@ -1,6 +1,6 @@
-artifact_location: file:///C:/Users/Roihan/Downloads/MSML/Membangun_model/mlruns/0
-creation_time: 1766525145221
+artifact_location: mlflow-artifacts:/0
+creation_time: 1766586658378
 experiment_id: '0'
-last_update_time: 1766525145221
+last_update_time: 1766586658378
 lifecycle_stage: active
 name: Default

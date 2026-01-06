@@ -1,0 +1,41 @@
+artifact_path: mlflow-artifacts:/632663628493021917/models/m-576f6ccff84543a1afc59a7ff8e2fc6c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-576f6ccff84543a1afc59a7ff8e2fc6c
+model_size_bytes: 66994738
+model_uuid: m-576f6ccff84543a1afc59a7ff8e2fc6c
+prompts: null
+run_id: 54a0acd38eeb4e48bbf31226f9603f0b
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "CO(GT)", "required": true}, {"type": "double",
+    "name": "PT08.S1(CO)", "required": true}, {"type": "double", "name": "NMHC(GT)",
+    "required": true}, {"type": "double", "name": "PT08.S2(NMHC)", "required": true},
+    {"type": "double", "name": "NOx(GT)", "required": true}, {"type": "double", "name":
+    "PT08.S3(NOx)", "required": true}, {"type": "double", "name": "NO2(GT)", "required":
+    true}, {"type": "double", "name": "PT08.S4(NO2)", "required": true}, {"type":
+    "double", "name": "PT08.S5(O3)", "required": true}, {"type": "double", "name":
+    "T", "required": true}, {"type": "double", "name": "RH", "required": true}, {"type":
+    "double", "name": "AH", "required": true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-12-24 14:41:36.336800'

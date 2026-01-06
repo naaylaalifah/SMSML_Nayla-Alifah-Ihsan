@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/202046950713308177
+creation_time: 1766586677905
+experiment_id: '202046950713308177'
+last_update_time: 1766586677905
+lifecycle_stage: active
+name: AirQuality_Baseline_Model
