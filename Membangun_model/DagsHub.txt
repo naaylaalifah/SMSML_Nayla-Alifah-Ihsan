@@ -1,1 +1,0 @@
-tautan dagshub : https://dagshub.com/naaylaalifah/Eksperimen-SML.mlflow/#/experiments/0/runs?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
