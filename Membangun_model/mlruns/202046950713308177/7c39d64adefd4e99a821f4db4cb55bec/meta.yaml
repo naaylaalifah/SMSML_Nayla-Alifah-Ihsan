@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/202046950713308177/7c39d64adefd4e99a821f4db4cb55bec/artifacts
+end_time: 1767707274083
+entry_point_name: ''
+experiment_id: '202046950713308177'
+lifecycle_stage: active
+run_id: 7c39d64adefd4e99a821f4db4cb55bec
+run_name: serious-dog-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767707266373
+status: 3
+tags: []
+user_id: naaylaalifah

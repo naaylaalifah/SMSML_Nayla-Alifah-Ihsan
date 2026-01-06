@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/202046950713308177/7deaec5b70a3445d8787b123bed77ceb/artifacts
+end_time: 1767707149603
+entry_point_name: ''
+experiment_id: '202046950713308177'
+lifecycle_stage: active
+run_id: 7deaec5b70a3445d8787b123bed77ceb
+run_name: abrasive-horse-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767707147600
+status: 3
+tags: []
+user_id: naaylaalifah
